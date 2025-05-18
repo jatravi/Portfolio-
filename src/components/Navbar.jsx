@@ -6,7 +6,7 @@ function Navbar() {
     <div className="Navbar">
       <div className="left">
         {/* <img src="" alt="Logo" /> */}
-        <span color="red">Ravi</span> Choudhary
+        <a href="#home"><span>Ravi</span> Choudhary</a>
       </div>
       <div className="sections">
         <ul>
@@ -26,7 +26,7 @@ function Navbar() {
       </div>
       <div className="icons">
         <a href="https://github.com" target="_blank" rel="noreferrer">
-          <i className='bx bxl-sketch'></i> 
+          <i className='bx bxs-moon'></i>
         </a>
         <a href="https://github.com" target="_blank" rel="noreferrer">
           <i className="bx bxl-github"></i>
