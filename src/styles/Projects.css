@@ -69,6 +69,10 @@
     margin-top: 0;
 }
 
+.project-info a{
+    text-decoration: none;
+}
+
 .project-info button{
     color: white;
     padding: 15px 35px;
