@@ -1,8 +1,10 @@
 import "../styles/Home.css";
 import thinkingBubble from "../assets/thinking-bubble.png";
-import "boxicons/css/boxicons.min.css";
+import thinking from "../assets/thinking.png";
+import React, { useState } from 'react';
 
 function Home() {
+  const [hovered, setHovered] = useState(false);
   return (
     <div id="home">
       <div className="info">
@@ -27,8 +29,13 @@ function Home() {
       </div>
 
       <div className="info-box">
-        <img src={thinkingBubble} alt="Thinking Bubble" />
-      </div>
+      <img
+        src={hovered ? thinking : thinkingBubble}
+        alt="Thinking Bubble"
+        onMouseEnter={() => setHovered(true)}
+        onMouseLeave={() => setHovered(false)}
+      />
+    </div>
 
       <div className="scroll-down">
        
