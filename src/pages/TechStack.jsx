@@ -12,23 +12,27 @@ function TechStack() {
 
         <div className="designer">
           <h1 className="gradient">
-            Designer <i class="bx bx-laptop"></i>
+            Designer <i className="bx bx-laptop"></i>
           </h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente
-            quos odit ipsam eligendi autem dignissimos, voluptatibus quam
-            delectus sit natus quidem atque sunt omnis reiciendis?
+            I craft intuitive and aesthetically pleasing user interfaces with a
+            focus on accessibility, responsiveness, and modern design trends.
+            From mobile app mockups to full-scale web layouts, I bring
+            creativity and structure together to deliver engaging user
+            experiences.
           </p>
         </div>
 
         <div className="coder">
           <h1 className="gradient">
-            Coder <i class="bx bx-code-alt"></i>
+            Coder <i className="bx bx-code-alt"></i>
           </h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente
-            quos odit ipsam eligendi autem dignissimos, voluptatibus quam
-            delectus sit natus quidem atque sunt omnis reiciendis?
+            As a passionate developer, I love turning ideas into clean,
+            functional code. I specialize in building interactive front-ends
+            using Flutter, React, and JavaScript, and have hands-on experience
+            with backend logic, APIs, and full-stack development for real-world
+            applications.
           </p>
         </div>
 
