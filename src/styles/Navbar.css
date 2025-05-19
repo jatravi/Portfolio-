@@ -10,7 +10,7 @@
   right: 0;
   height: 50px;
   font-size: large;
-  box-shadow: 0px 5px 20px black;
+  box-shadow: 0px 0px 20px 3px lightgray;
   backdrop-filter: blur(10px);
   background-color: black;
 }
@@ -27,7 +27,7 @@
 }
 
 .Navbar .left span {
-  color: #727fde65;
+  color: lightgray;
 }
 
 .Navbar .sections {
