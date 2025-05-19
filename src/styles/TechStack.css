@@ -86,5 +86,18 @@
 }
 
 .slider .list .item i{
-   font-size: 100%;
+   font-size: 100px;
+}
+
+@keyframes autorun {
+    from{
+        left: 100%;
+    }
+    to{
+        left: calc(var(--width) * -1);
+    }
+}
+
+.slider .item:hover{
+    filter: grayscale(0);
 }

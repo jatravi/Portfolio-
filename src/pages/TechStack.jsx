@@ -38,7 +38,7 @@ function TechStack() {
           style={{
             "--width": "100px",
             "--height": "100px",
-            "--quantity": 9,
+            "--quantity": 13,
           }}
         >
           <div className="list">
@@ -75,10 +75,10 @@ function TechStack() {
             <div className="item" style={{ "--position": 11 }}>
               <i className="bx bxl-visual-studio"></i>
             </div>
-            <div className="item" style={{ "--position": 13 }}>
+            <div className="item" style={{ "--position": 12 }}>
               <i className="bx bxl-git"></i>
             </div>
-            <div className="item" style={{ "--position": 15 }}>
+            <div className="item" style={{ "--position": 13 }}>
               <i className="bx bxl-github"></i>
             </div>
           </div>
