@@ -37,7 +37,7 @@ function Project(){
                         nesciunt eius mollitia repudiandae error obcaecati pariatur
                          a reiciendis!
                     </p>
-                    <button>< i class='bx  bx-link'  ></i> Website</button>
+                    <button>< i className='bx  bx-link'  ></i> Website</button>
                 </div>
             </div>
 
@@ -54,7 +54,7 @@ function Project(){
                         nesciunt eius mollitia repudiandae error obcaecati pariatur
                          a reiciendis!
                     </p>
-                    <button>< i class='bx  bx-link'  ></i> Website</button>
+                    <button>< i className='bx  bx-link'  ></i> Website</button>
                 </div>
             </div>
 
