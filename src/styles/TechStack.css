@@ -69,6 +69,7 @@
 }
 
 .slider .list{
+    padding-top: 10px;
     display: flex;
     width: 100%;
     min-width: calc(var(--width)* var(--quantity));

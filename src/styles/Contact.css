@@ -1,0 +1,72 @@
+#Contact{
+    width: 80%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+    align-items: center;
+    position: relative;
+}
+
+.contact-section h1{
+    position: absolute;
+    top: 10%;
+    left: 40%;
+}
+
+.social-box{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.social-box i{
+    color: #727fde;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.social-box a{
+    color: lightgray;
+    text-decoration: none;
+    font-size: 20px;
+    text-wrap: nowrap;
+}
+
+.social-icons{
+    display: flex;
+    gap: 30px;
+}
+
+.contact-box p{
+    max-width: 400px;
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+
+.contact-box input{
+    padding: 7.5px 30px;
+    background-color: lightgray;
+    width: 80%;
+    height: 25px;
+    border: none;
+    outline: none;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.contact-box button{
+    margin-top: 30px;
+    color: white;
+    padding: 15px 35px;
+    border-radius: 10px;
+    border: 1px solid #727fde88;
+    background-color: black;
+    box-shadow: 0 0 5px #727fde88;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.contact-box button:hover{
+    box-shadow: 0 0 15px #727fde86;
+}

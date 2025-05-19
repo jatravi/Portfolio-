@@ -1,9 +1,27 @@
-.Footer{
-    padding: 5px;
-    background-color: black;
-    position: fixed;
-    left: 0;
-    bottom: 0;
+.footer {
     width: 100%;
-    color: white;
+  background-color: #1a1a1a;
+  color: #fff;
+  text-align: center;
+  padding: 20px 10px;
+}
+
+.footer-content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.social-links {
+  margin-top: 10px;
+}
+
+.social-links a {
+  color: #fff;
+  margin: 0 10px;
+  font-size: 1.5rem;
+  transition: color 0.3s;
+}
+
+.social-links a:hover {
+  color: #1da1f2; /* X/Twitter blue or custom hover color */
 }
