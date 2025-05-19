@@ -14,7 +14,7 @@ function Navbar() {
           <a href="#About">About</a>
         </li>
         <li>
-          <a href="#Portfolio">Protfolio</a>
+          <a href="#projects">Projects</a>
         </li>
         <li>
           <a href="#TechStack">TechStacks</a>
