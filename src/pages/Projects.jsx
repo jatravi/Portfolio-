@@ -37,7 +37,7 @@ function Project(){
                 Google Gemini API. It responds to both text and image inputs, making it suitable for interactive 
                 learning or smart customer support use cases.
             </p>
-            <button><i className='bx bx-link'></i><a href="https://ravi-choudhary.netlify.app/" target="_blank" rel="noopener noreferrer"> Website</a></button>
+            <button><i className='bx bx-link'></i><a href="https://ravi-choudhary.netlify.app/" target="_blank"> Website</a></button>
         </div>
     </div>
 
@@ -52,7 +52,7 @@ function Project(){
                 It mimics real-world user experience with playlist views, album arts, and seamless navigation, 
                 showcasing my expertise in Flutter and UI development.
             </p>
-            <button><i className='bx bx-link'></i><a href="http://github.com/jatravi/SPOTIFY_FLUTTER" target="_blank" rel="noopener noreferrer"> Github</a></button>
+            <button><i className='bx bx-link'></i><a href="http://github.com/jatravi/SPOTIFY_FLUTTER" target="_blank"> Github</a></button>
         </div>
     </div>
 
@@ -67,7 +67,7 @@ function Project(){
                 Features include dynamic platform generation, smooth jump physics, and collision detection — 
                 great for practicing logic and animation fundamentals.
             </p>
-            <button><i className='bx bx-link'></i><a href="https://doodler-game.netlify.app/" target="_blank" rel="noopener noreferrer"> Website</a></button>
+            <button><i className='bx bx-link'></i><a href="https://doodler-game.netlify.app/" target="_blank"> Website</a></button>
         </div>
     </div>
 
