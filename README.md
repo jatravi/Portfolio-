@@ -19,68 +19,41 @@ Protfolio is a front-end focused personal portfolio template designed to highlig
 ---
 
 ## File Structure
-
-Protfolio/
-
+```bash
+Portfolio/
 ├── public/
-
 │   └── index.html
 ├── src/
-
-│   ├── assets/  # Images used in the project (e.g., babyboy.png, hacker.png) 
-
+│   ├── assets/
+│   │   ├── babyboy.png
+│   │   └── hacker.png
 │   ├── components/
-
 │   │   ├── Footer.jsx
-
 │   │   ├── Navbar.jsx
-
-│   │   └── Contact.jsx  
-
+│   │   └── Contact.jsx
 │   ├── pages/
-
-│   │   ├── About.jsx   
-
-│   │   ├── Contact.jsx  
-
-│   │   ├── Home.jsx    
-
-│   │   ├── Projects.jsx  
-
+│   │   ├── About.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Home.jsx
+│   │   ├── Projects.jsx
 │   │   └── TechStack.jsx
-
 │   ├── styles/
-
-│   │   ├── About.css    
-
-│   │   ├── App.css    
-
-│   │   ├── Contact.css  
-
-│   │   ├── Footer.css  
-
-│   │   ├── Home.css   
-
-│   │   ├── Navbar.css   
-
-│   │   ├── Projects.css 
-
+│   │   ├── About.css
+│   │   ├── App.css
+│   │   ├── Contact.css
+│   │   ├── Footer.css
+│   │   ├── Home.css
+│   │   ├── Navbar.css
+│   │   ├── Projects.css
 │   │   └── TechStack.css
-
 │   ├── App.jsx
-
 │   └── index.js
-
 ├── .gitignore
-
 ├── README.md
-
 ├── package-lock.json
-
 ├── package.json
-
 └── ...
-
+```
 ---
 
 ## Getting Started
