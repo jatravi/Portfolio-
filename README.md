@@ -1,107 +1,91 @@
-# Protfolio
+# Portfolio Website
 
-![Portfolio Preview](https://protfolio-pgwl.onrender.com/)  
+A personal portfolio website built to showcase my work, skills, projects, and experience as a developer interested in **full-stack development, backend systems, AI-powered applications, and automation**.
 
-A sleek and responsive personal portfolio website built with React. Showcase your skills, projects, and contact information in a professional and visually appealing way.
+The portfolio highlights projects ranging from AI applications and intelligent research systems to backend data pipelines and full-stack applications.
 
----
+## Features
+
+* **Responsive Design** — Designed to work across desktop, tablet, and mobile devices.
+* **Smooth Animations** — Interactive animations and transitions powered by Framer Motion.
+* **Project Showcase** — Highlights selected projects, including AI-powered applications and backend systems.
+* **Skills & Experience** — A structured overview of my technical skills, projects, and professional experience.
+* **Contact & Social Links** — Easy ways to connect through email, LinkedIn, GitHub, and other platforms.
+
+## Tech Stack
+
+* **Frontend:** React.js
+* **Build Tool:** Vite
+* **Styling:** Tailwind CSS
+* **Animations:** Framer Motion
+* **Icons:** React Icons
+
+## Featured Projects
+
+The portfolio currently showcases selected projects such as:
+
+* **EquityScout** — AI-powered deep equity research and investment analysis.
+* **GeM Tender Discovery Pipeline** — Automated tender discovery, document processing, extraction, and classification pipeline.
+* **AI Resume Builder** — A full-stack application with AI-powered resume content generation.
+* **AI Voice Fraud Detection** — A system designed to classify AI-generated and human voices.
+
+## Installation & Setup
+
+### 1. Clone the repository
+
+```sh
+git clone https://github.com/jatravi/portfolio-.git
+```
+
+### 2. Navigate to the project directory
+
+```sh
+cd portfolio-
+```
+
+### 3. Install dependencies
+
+```sh
+npm install
+```
+
+### 4. Start the development server
+
+```sh
+npm run dev
+```
+
+The application will be available at:
+
+```text
+http://localhost:5173/
+```
+
+## Build for Production
+
+```sh
+npm run build
+```
+
+To preview the production build locally:
+
+```sh
+npm run preview
+```
 
 ## Live Demo
 
-Check out the live website here: [Protfolio Live](https://protfolio-pgwl.onrender.com/)
-
----
-
-## Overview
-
-Protfolio is a front-end focused personal portfolio template designed to highlight your skills, projects, and contact details efficiently. It features smooth gradients, modern icons, responsive design, and simple navigation. Ideal for developers, designers, or freelancers wanting to showcase their work.
-
----
-
-## File Structure
-```bash
-Portfolio/
-├── public/
-│   └── index.html
-├── src/
-│   ├── assets/
-│   │   ├── babyboy.png
-│   │   └── hacker.png
-│   ├── components/
-│   │   ├── Footer.jsx
-│   │   ├── Navbar.jsx
-│   │   └── Contact.jsx
-│   ├── pages/
-│   │   ├── About.jsx
-│   │   ├── Contact.jsx
-│   │   ├── Home.jsx
-│   │   ├── Projects.jsx
-│   │   └── TechStack.jsx
-│   ├── styles/
-│   │   ├── About.css
-│   │   ├── App.css
-│   │   ├── Contact.css
-│   │   ├── Footer.css
-│   │   ├── Home.css
-│   │   ├── Navbar.css
-│   │   ├── Projects.css
-│   │   └── TechStack.css
-│   ├── App.jsx
-│   └── index.js
-├── .gitignore
-├── README.md
-├── package-lock.json
-├── package.json
-└── ...
-```
----
-
-## Getting Started
-
-To run this project locally, follow these steps:
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/en/) (v14 or later)
-- npm (comes with Node.js) or yarn
-
-### Installation
-
-1. **Clone the repo**
-
-    ```
-    git clone https://github.com/jatravi/Protfolio.git
-    cd Protfolio
-    ```
-
-2. **Install dependencies**
-
-    ```
-    npm install
-    # or
-    yarn install
-    ```
-
-3. **Start the development server**
-
-    ```
-    npm start
-    # or
-    yarn start
-    ```
-
-This will launch the app on http://localhost:3000 in your browser. The page will reload as you make edits.
-
-## Technologies Used
-
-- React.js
-- CSS3 (with gradients and responsive design)
-- Boxicons for icons
-
-## Contribution
-
-Feel free to open issues or submit pull requests to improve the project!
+The live version of the portfolio will be added here after deployment.
 
 ## Contact
 
-Created by Ravi Choudhary – feel free to connect
+Feel free to connect with me:
+
+* **Email:** [01official.ravi@gmail.com](mailto:01official.ravi@gmail.com)
+* **LinkedIn:** ([ravi-jaat](https://www.linkedin.com/in/ravi-jaat/))
+* **GitHub:** ([jatravi](https://github.com/jatravi))
+* **X / Twitter:** ([_jaat_ravi](https://x.com/_jaat_ravi))
+
+---
+
+Made with ❤️ by **Ravi Choudhary**

@@ -1,28 +1,14 @@
-import React from 'react';
-import '../styles/Footer.css';
+import React from 'react'
 
-function Footer() {
+export default function Footer() {
   return (
-    <footer className="footer">
-      <div className="footer-content">
-        <p>© {new Date().getFullYear()} Ravi Choudhary. Made with 💞 by Ravi Choudhary.</p>
-        <div className="social-links">
-          <a href="https://github.com/jatravi" target="_blank" rel="noopener noreferrer">
-            <i className="bx bxl-github"></i>
-          </a>
-          <a href="https://www.instagram.com/_ravi_choudharyy/" target="_blank" rel="noopener noreferrer">
-            <i className="bx bxl-instagram"></i>
-          </a>
-          <a href="https://x.com/_jaat_ravi" target="_blank" rel="noopener noreferrer">
-            <i className="fab fa-x-twitter"></i>
-          </a>
-          <a href="https://youtube.com/u/jat_ravi/" target="_blank" rel="noopener noreferrer">
-            <i className="bx bxl-youtube"></i>
-          </a>
-        </div>
-      </div>
-    </footer>
-  );
-}
+    <div className='bg-black px-5 lg:px-28 py-3 lg:py-6 flex items-center justify-between mt-16'>
+      <img className='invert h-5 lg:h-9' src="/assets/favicon.png" alt="" />
 
-export default Footer;
+      <div className='text-white lg:font-semibold lg:text-sm font-normal text-[10px] text-right lg:space-y-3'>
+        <p>@ 2026 Personal Portfolio</p>
+        <p>Made with ❤️ by Ravi.</p>
+      </div>
+    </div>
+  )
+}
