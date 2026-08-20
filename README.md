@@ -75,7 +75,7 @@ npm run preview
 
 ## Live Demo
 
-The live version of the portfolio will be added here after deployment.
+[The live version of the portfolio.](https://ravichoudhary.netlify.app/)
 
 ## Contact
 
